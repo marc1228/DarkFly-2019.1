@@ -27,10 +27,10 @@ tambahkan pengguna github kesukaan kalian kedalam tools DarkFly-2019.1 dan Temuk
 * **install on Termux android**
 
 ```
-$pkg install git python -y
-$git clone https://github.com/Ranginang67/DarkFly-2019.1
-$cd DarkFly-2019.1
-$chmod +x install.py
-$python install.py install
-$DarkFly.
+pkg install git python -y
+git clone https://github.com/Ranginang67/DarkFly-2019.1
+cd DarkFly-2019.1
+chmod +x install.py
+python install.py install
+DarkFly.
 ```
